@@ -1,0 +1,13 @@
+<div class="well">
+  <ul class="list-group">
+    <li class="list-group-item list-group-item-success"><a href="https://twitter.com/solarxbike">Effektstyrning</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?page_id=588">Utvecklingsstatus (lösen)</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?page_id=456">Status på batteri</a></li>
+    <li class="list-group-item"><a href="https://docs.google.com/spreadsheets/d/1rk3AdMAWirLXI3Huatmqx8pir4cg_KLvO41tg7gG7Zo/edit?usp=sharing">Projektstatus</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?p=547">Batterispänning</a></li>
+    <li class="list-group-item list-group-item-danger"><a href="https://twitter.com/solarxbike">Säkerhetsföreskrifter</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?page_id=588">Läs först (impressum)</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?page_id=456">Status på batteri</a></li>
+    <li class="list-group-item"><a href="http://yellotab.com/x042/?p=547">Batterispänning</a></li>
+  </ul>
+</div>
